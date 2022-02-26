@@ -5,4 +5,4 @@
 3. **Bike_Rent_OOPs_Project**:[Python based using oops concept].
 4. **Contact App**:<a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/contactApp_solution_1.ipynb" target="_blank">[ContactApp]</a>.
 5. **Four in a row**: <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/four_in_a_row.ipynb" target="_blank">[FourInARow]</a>.
-6. **Calender**
+6. **Calender**.
