@@ -7,3 +7,4 @@
 4. **Contact App**:<a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/contactApp_solution_1.ipynb" target="_blank">[ContactApp]</a>.
 5. **Four in a row**: <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/four_in_a_row.ipynb" target="_blank">[FourInARow]</a>.
 6. **Calender** <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/calendar_project.ipynb" target="_blank">[Calender]</a>.
+## Data Science
