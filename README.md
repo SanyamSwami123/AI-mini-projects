@@ -6,5 +6,5 @@
 3. **Bike_Rent_OOPs_Project**:<a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/3_question_Bike_Rent_OOPs_Project_.ipynb" target="_blank">[Bike_Rent_OOPs]</a>[Python based using oops concept].
 4. **Contact App**:<a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/contactApp_solution_1.ipynb" target="_blank">[ContactApp]</a> Python based contact application having functions like add, delete, search, update, and show contacts.
 5. **Four in a row**: <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/four_in_a_row.ipynb" target="_blank">[FourInARow]</a> X and O tic tac toe with 4 by 4 grid.
-6. **Calender** <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/calendar_project.ipynb" target="_blank">[Calender]</a>.
+6. **Calender** <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/calendar_project.ipynb" target="_blank">[Calender]</a> Calender project from scratch.
 ## Data Science
