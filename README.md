@@ -9,3 +9,4 @@
 6. **Calender** <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/calendar_project.ipynb" target="_blank">[Calender]</a> Calender project from scratch.
 ## Data Science
 1.
+2.
