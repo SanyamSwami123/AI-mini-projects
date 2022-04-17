@@ -9,5 +9,5 @@
 6. **Calender** <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/calendar_project.ipynb" target="_blank">[Calender]</a> Calender project from scratch.
 ## Data Science
 1. DS miniProjects<a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/3_question_Bike_Rent_OOPs_Project_.ipynb" target="_blank">DS</a>
-2.
+2. DS practice 
 3.
