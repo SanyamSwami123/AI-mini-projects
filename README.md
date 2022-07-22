@@ -8,5 +8,7 @@
 5. **Four in a row**: <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/four_in_a_row.ipynb" target="_blank">[FourInARow]</a> X and O tic tac toe with 4 by 4 grid.
 6. **Calender** <a href="https://github.com/SanyamSwami123/AI-mini-projects/blob/main/calendar_project.ipynb" target="_blank">[Calender]</a> Calender project from scratch.
 ## Data Science
-1. DS miniProjects<a href="https://github.com/SanyamSwami123/AI-mini-projects/tree/main/Data%20Science/Practice_Data_Science_projects" target="_blank">DS</a>
+<!--1. DS miniProjects<a href="https://github.com/SanyamSwami123/AI-mini-projects/tree/main/Data%20Science/Practice_Data_Science_projects" target="_blank">DS</a>-->
+- Update Soon
 ## Machine Learning
+- Update Soon
